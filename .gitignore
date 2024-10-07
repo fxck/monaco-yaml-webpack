@@ -1,2 +1,3 @@
 node_modules
 browser-esm-webpack/dist/monaco-editor
+.DS_Store
